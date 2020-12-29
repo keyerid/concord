@@ -1,0 +1,23 @@
+#Settings
+
+target/
+.idea
+*.iml
+*.ipr
+*.iws
+*.*~
+*~
+
+# Log files
+*.log
+logs/
+
+#Ignore wiki folder (it's separate git repository for project wiki)
+wiki/
+
+*.tmpf
+
+# sprcific local maven configs
+.mvn_ignore/
+
+
